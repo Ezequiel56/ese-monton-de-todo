@@ -123,7 +123,7 @@ header .hr {
   position: relative;
 }
 
-.maindex .bienvenida .fotopromo {
+.maindex .bienvenida .slider {
   width: 100%;
   position: absolute;
   left: 0;
@@ -133,7 +133,7 @@ header .hr {
   box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.35);
 }
 
-.maindex .bienvenida .fotopromo img {
+.maindex .bienvenida .slider img {
   width: 100%;
   vertical-align: top;
 }
@@ -181,12 +181,12 @@ header .hr {
   justify-content: space-around;
 }
 
-.maindex .aboutus .contenedorgaleria .fotopromo {
+.maindex .aboutus .contenedorgaleria .slider {
   width: 33%;
   margin-bottom: 10px;
 }
 
-.maindex .aboutus .contenedorgaleria .fotopromo img{
+.maindex .aboutus .contenedorgaleria .slider img{
   width: 100%;
   vertical-align: top;
   border-radius: 3px;
@@ -194,11 +194,11 @@ header .hr {
   padding: 20px;
 }
 
-.maindex .aboutus .contenedorgaleria .fotopromo img:hover{
+.maindex .aboutus .contenedorgaleria .slider img:hover{
   opacity: 1;
 }
 
-.maindex .aboutus .contenedorgaleria .fotopromo .pie {
+.maindex .aboutus .contenedorgaleria .slider .pie {
   text-align: center;
   color: #03071E;
   font-weight: 400;
