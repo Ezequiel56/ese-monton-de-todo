@@ -392,8 +392,7 @@ header .hr {
       margin-bottom: 20px;
     }
     
-
-
+    
   }
 
   .foto img:hover{
@@ -494,8 +493,12 @@ header .hr {
   }
 
   .item {
-    width: 370px;
+    width: 500px;
   }
+
+  .item { 
+   content: url('../img/panchocelu.jpeg');
+    }
 
 }
 
