@@ -82,7 +82,7 @@ header .hc {
 
 header .hi {
   width: 100%;
-  background: url('../img/paisaje.jpg'), #6A040F;
+  background-color: #03071E; 
   background-size: cover;
   background-attachment: fixed;
   background-position: center 0;
@@ -262,7 +262,7 @@ header .hr {
   width: 100%;
   vertical-align: top;
   border-radius: 3px;
-  opacity: 0.6;
+  opacity: 1;
   
 }
 
@@ -276,7 +276,7 @@ header .hr {
 .galeriaproducto .ph .leche       .foto img:hover,
 .galeriaproducto .ph .snacks      .foto img:hover,
 .galeriaproducto .ph .shampoo     .foto img:hover{
-  opacity: 1;
+  opacity: 0.9;
 }
 
 .galeriaproducto .ph .galletas     h2,
@@ -414,8 +414,12 @@ header .hr {
   transition:800ms;
 }
 
-.precio {
-  
+.Precio {
+ text-align: center;
+ font-style: italic;
+ font-size: 25px;
+ font-weight: bold;
+ 
 }
 
 .slider1{
