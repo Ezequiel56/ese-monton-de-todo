@@ -88,9 +88,10 @@ header .hi {
   background-position: center 0;
 }
 
+/*fondo de pantalla producto  */
 header .hp {
   width: 100%;
-  background: url('../img/producto.JPG'), #6A040F;
+  background-color: #03071E; 
   background-size: cover;
   background-attachment: fixed;
   background-position: center 0;
@@ -497,7 +498,7 @@ header .hr {
   }
 
   .item {
-    width: 500px;
+    width: 400px;
   }
 
   .item { 
